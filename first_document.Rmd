@@ -1,7 +1,7 @@
 ---
 title: "Rstudio"
-author: "Emma"
-date: "9/22/2025"
+author: "frog"
+date: "8/04/2026"
 output: html_document
 ---
 
@@ -35,15 +35,12 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 The above text is included anytime you create a new RMarkdown file. Try making bold or italic text, bulleted lists, or just playing around with the differences between the 'Source' and 'Visual' editing modes. Knit the document after you're finished editing to view the output document. Save your document with a new file name. If you're satisfied with your edits, go ahead and save the file, stage, commit, and push! You don't need to push your html file created by knitting your document, but you can if you want.
 
+***bullfrog calls***
 
+***on this summer eve***
 
-
-git init
+***lusty, loud***
 
 git config user.name "ejenkins4658"
 
-git config user.email "ejenkins4658@gmail.com"
-
-
-
-
+git config user.email "[ejenkins4658\@gmail.com](mailto:ejenkins4658@gmail.com){.email}"
